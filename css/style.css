@@ -35,3 +35,46 @@ ul li a {
     font-weight: 600;
     cursor: pointer;
 }
+
+.categories h1{
+    color: #fff;
+}
+
+.categories img{
+    width: 120px;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background-color: #EFAE24;
+}
+
+.cat2{
+    background-color: #EA2C74;
+}
+
+.cat3{
+    background-color: #3949FB;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+#contact{
+    height: 300px;
+}
+
+.form-control{
+    border: none;
+    margin-bottom: 5px;
+}
+
+footer{
+    text-align: center; 
+}
